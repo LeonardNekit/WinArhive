@@ -1,0 +1,38 @@
+ .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #008000;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+       background-color: #23527c;
+}
+
+.center {
+            text-align: center;
+        }
+
+h1, p {
+
+    font-family: 'Montserrat', monospace;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: black;
+}
+.rectangle {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+.rectangle p {
+    margin: 0;
+}
