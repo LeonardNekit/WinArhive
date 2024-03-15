@@ -25,22 +25,7 @@ hr {
     height: 1px;
     background-color: black;
 }
-.rectangle {
-    width: 200px;
-    height: 100px;
-    background-color: lightblue;
-    border: 2px solid blue;
-    padding: 10px;
-}
 
-.rectangle p {
-    margin: 0;
-}
-
-.rectangle a {
-    color: blue;
-    text-decoration: none;
-}
 
 .rectangle a:hover {
     text-decoration: underline;
